@@ -1,6 +1,9 @@
-# Unsupervised Learning Lab II (L09)
-
-Download the repository as a zip folder and begin an R project for this lab. The zip folder will contain instructions (repeated below) and a template to get an Rmd file started.
+---
+title: "Unsupervised Learning Lab II (L09)"
+author: "Data Science III (STAT 301-3)"
+date: "April 30th, 2018"
+output: html_document
+---
 
 # Overview
 
@@ -14,6 +17,12 @@ We will be utilizing the `USArrests` data (*USArrests.csv*) which is contained i
 
 Please complete the following exercises. The document should be neatly formatted. 
 
+#### Load Packages
+
+```{r, message=FALSE}
+# Loading package(s)
+
+```
 <br>
 
 #### Exercise 1 (Ex. 9 Section 10.7 pg 416)
@@ -43,4 +52,3 @@ Use the `clustMixType` package to perform clustering on the `college_reshaped.cs
 
 #### Exercise 3
 Use the `cluster` package (specifically the `daisy()` & `pam()`) to perform clustering on the `college_reshaped.csv` dataset.
-
