@@ -32,7 +32,7 @@ a. Using hierarchical clustering with complete linkage and Euclidean distance, c
 
 <br>
 
-b. Cut the dendrogram at a height that results in three distinct clusters. Which states belong to which clusters?
+b. Cut the dendrogram at a height that results in three distinct clusters. Which states belong to which clusters? *Challenge: Maybe plotting a map and filling by cluster membership might be a good idea.*
 
 <br>
 
